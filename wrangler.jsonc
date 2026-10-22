@@ -63,7 +63,7 @@
 		"ACCOUNT_LIST_CACHE_TTL_SECONDS": 600,
 		"ZONE_LIST_CACHE_TTL_SECONDS": 1800,
 		"SSL_CERTS_CACHE_TTL_SECONDS": 1800,
-		"HOST_METRICS_ALLOWLIST": "jettmirzelquvax.com, jettredzelquvax.com",
+		"HOST_METRICS_ALLOWLIST": "jettmirzelquvax.com,jettredzelquvax.com",
 		"HOST_METRICS_DELAY_SECONDS": 60,
 		"EXCLUDE_HOST": false,
 		"CF_HTTP_STATUS_GROUP": false,
